@@ -1,0 +1,125 @@
+body {
+    background-color: white;
+    background: url(https://scx2.b-cdn.net/gfx/news/2017/58af0228b8aa8.jpg);
+    background-size: 250px;
+    background-repeat:no-repeat;
+    background-position: 50% 45%;
+}
+
+
+
+body h1, h2  {
+    text-align: center;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 0;
+    font-family: serif;
+    font-weight: 100; 
+}
+
+h2 {
+    margin-top: 0;
+    font-family: serif;
+    font-size: 16px;
+    font-weight: 100;
+}
+ div.languages {
+    width: 135px;
+    text-align: center;
+    position: relative;
+    margin: 0 auto;
+    color: #3366cc;
+    font-family: sans-serif;
+ }
+
+ .logo {
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+ }
+
+ .search-bar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+div.english {
+    position: relative;
+    right: 8rem;
+    top: 2rem;   
+}
+
+div.russian {
+    position: relative;
+    right: 12rem;
+    top: 3rem;
+}
+
+div.german {
+    position: relative;
+    right: 16rem;
+    top: 5rem;
+    left: -12rem;
+}
+
+div.italian {
+    position: relative;
+    right: 12rem;
+    top: 6rem;
+}
+
+div.portuguese {
+    position: relative;
+    right: 8rem;
+    top: 7rem;  
+}
+
+div.chinese {
+    position: relative;
+    left: 9rem;
+    bottom: 12rem; 
+}
+
+div.spanish {
+    position: relative;
+    left: 12rem;
+    bottom: 11rem; 
+}
+
+div.french {
+    position: relative;
+    left: 12rem;
+    bottom: 9rem; 
+}
+
+div.japanese {
+    position: relative;
+    left: 11rem;
+    bottom: 8rem;
+}
+
+div.arabic {
+    position: relative;
+    left: 9rem;
+    bottom: 7rem;
+}
+
+
+div p {
+    color: #6a6e72;
+    font-size: 13.5px;
+    margin: 6px;
+}
+
+form input {
+    text-align: center;
+    width: 394px;
+    display: inline-block;
+}
+
+
+
